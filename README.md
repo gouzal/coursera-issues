@@ -1,2 +1,2 @@
 # coursera-issues
-Provided solution for some cousera issues
+Provided solutions for some cousera issues
